@@ -1,4 +1,7 @@
 ---
+genres:
+  - puzzle
+  - action
 post: https://github.com/ripter/js13k/blob/master/2021/Postmortem%20JS13KGame%202021.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
